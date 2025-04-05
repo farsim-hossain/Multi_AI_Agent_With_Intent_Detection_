@@ -1,8 +1,8 @@
 import imaplib
 
 # Replace these with your actual Gmail credentials
-username = "farsimhossain@gmail.com"
-app_password = "ixlm tgeb pvlo vooi"
+username = "farsimsain@gmail.com"
+app_password = "ixlm vooi"
 
 try:
     # Connect to Gmail's IMAP server
