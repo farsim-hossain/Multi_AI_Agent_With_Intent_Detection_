@@ -1,4 +1,4 @@
-GROQ_API_KEY="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"
+GROQ_API_KEY="gsk_7GNTmdWcHDHhNxi26sRDWGdyb3FYrLUJIOQfCqo3aU"
 from langchain_groq import ChatGroq
 
 llm = ChatGroq(
