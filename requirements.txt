@@ -1,0 +1,17 @@
+langchain 
+groq 
+python-dotenv 
+requests
+langchain_community
+langchain_groq
+duckduckgo_search
+langchain-huggingface
+pypdf
+faiss-cpu
+sendgrid
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+imaplib2 
+langgraph
